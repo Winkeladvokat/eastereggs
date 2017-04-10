@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/easteregg/easteregg_blue_texture"
+	"$surfaceprop" "watermelon" 
+}
